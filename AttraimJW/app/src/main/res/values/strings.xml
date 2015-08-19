@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Attraim JW</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Sign In</string>
+    <string name="logo">Company logo</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Home</item>
+        <item >Services</item>
+        <item >Career</item>
+        <item >Contact Us</item>
+        <item >Sign In</item>
+        <item >Sign Up</item>
+        <item >What\'s Hot</item>
+    </string-array>
+
+    <string name="title_section0">Home</string>
+    <string name="title_section1">Services</string>
+    <string name="title_section2">Career</string>
+    <string name="title_section3">Contact Us</string>
+    <string name="title_section4">Sign In</string>
+    <string name="title_section5">Sign Up</string>
+    <string name="title_section6">Whats Hot</string>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_services1</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_contact</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <!-- Contact Us -->
+    <string name="feedbacktype0">Select</string>
+    <string name="feedbacktype1">Praise</string>
+    <string name="feedbacktype2">Bug</string>
+    <string name="feedbacktype3">Suggestion</string>
+    <string name="feedbacktype4">Appointment</string>
+    <string name="feedbacktype5">Internship</string>
+    <string name="feedbacktype6">Job</string>
+
+    <string name="feedbacktitle">Contact Us..</string>
+    <string name="address">I-Space, 2nd Floor, Mumbai-Bangalore Highway,
+                            Bhavdhan, 1.5Km from Chandani Chowk,
+                            Near Maruti Suzuki Showroom Bhavdhan,
+                            Pune, 411021 Ph:020-60209696</string>
+    <string name="feedbackname">Name</string>
+    <string name="feedbackemail">Email</string>
+    <string name="feedbacktype">Type</string>
+    <string name="feedbackbody">Message</string>
+    <string name="feedbackresponse">I like an email response</string>
+    <string name="feedbackbutton">Contact Us</string>
+    <string name="signIn"> Members can Login Here </string>
+    <string name="signUp"> Register And Become Member </string>
+
+    <string name="about_us_text">
+        Attraim JW commenced operating in the year 2014.
+        “Empowering your organization to run with modern technologies.”
+        This could be the shortest description of the solutions we provide.
+    </string>
+    <string name="vision_text">
+        Providing workforce development solutions for businesses through
+        the attraction, retention and development of people”
+        We will be the employer of choice and the partner of choice by
+        focusing on our stated values of Employees First, Trust,
+        Transparency, Flexibility and Value Centricity.
+    </string>
+
+    <string name="services_text">
+        Services we provide&#8230;
+    </string>
+
+    <string name="webDevelopment">
+        Web development is a broad term for the work involved in developing a
+        web site for the Internet (World Wide Web) or an intranet (a private network).
+        Web development can range from developing the simplest static single page of
+        plain text to the most complex web-based internet applications, electronic businesses,
+        and social network services. A more comprehensive list of tasks to which web development
+        commonly refers, may include web design, web content development, client liaison,
+        client-side/server-side scripting, web server and network security configuration,
+        and e-commerce development. Among web professionals, “web development” usually refers to
+        the main non-design aspects of building web sites: writing markup and coding.
+    </string>
+
+    <string name="internship">
+        An internship is a job training for white-collar and professional careers.
+        Internships for professional careers are similar in some ways to apprenticeships
+        for trade and vocational jobs, but the lack of standardization and oversight leaves
+        the term open to broad interpretation. Interns may be college or university students,
+        high school students, or post-graduate adults. These positions may be paid or unpaid
+        and are usually temporary.
+    </string>
+
+    <string name="bpo">
+        BPO is typically categorized into back office outsourcing, which includes internal
+        business functions such as human resources or finance and accounting, and front office
+        outsourcing, which includes customer-related services such as contact center services.
+    </string>
+
+    <string name="androidApps">
+        An Android app is a software application running on the Android platform. Because
+        the Android platform is built for mobile devices, a typical Android app is designed
+        for a smartphone or a tablet PC running on the Android OS.
+    </string>
+
+    <string name="career_text">
+        Please find current openings in Attraim JW.
+        For all below positions candidates must posses good communication skills and good
+        command on programming.
+
+        Please send your profile to attraimjw1@gmail.com mentioning Technology and Years of
+        Experience in subject line of e-mail.
+    </string>
+    <string name="current">
+        Current Openings:
+        Openings for .Net Developer.
+        Requirement for Programmer / Interns.
+        Business Process Outsourcing.
+        Experience : 0 to 2 years in the relevant field.
+        Job Location: Pune
+    </string>
+
+</resources>

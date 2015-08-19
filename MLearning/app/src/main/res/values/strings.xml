@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">m-Learning</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="welcm">Welcome to m-Learning</string>
+   <string name="login">Sign In</string>
+   <string name="signup">Sign Up</string>
+   <string name="ver">V 1.0</string>
+   <string name="usrname">Username</string>
+   <string name="pass">Password</string>
+   
+   <string name="books">Books Catalogue</string>
+  
+   <string name="book1">C_Programming</string>
+   <string name="book2">Computer Organization</string>
+   <string name="book3">PPMOB</string>
+   <string name="book4">Software Engineering</string>
+   <string name="book5">Discrete Mathematics</string>
+    <string name="book6">Operating System</string>
+   	<string name="book7">DBMS</string>
+   	<string name="book8">C++</string>
+   	<string name="book9">MIS</string>
+   	<string name="book10">ERP</string>
+    <string name="book11">Data Structure C++</string>
+   	<string name="book12">Web Technology</string>
+   	<string name="book13">DCCN</string>
+   	<string name="book14">OOAD</string>
+   	<string name="book15">ADBMS</string>
+    <string name="book16">Optimization Technique</string>
+   	<string name="book17">Mobile Computing</string>
+   	<string name="book18">Java</string>
+   	<string name="book19">ISA</string>
+   	<string name="book20">DAA</string>  	
+    <string name="book21">Optimization Technique</string>
+   	<string name="book22">Mobile Computing</string>
+   	<string name="book23">Java</string>
+   	<string name="book24">ISA</string>
+   	<string name="book25">DAA</string>
+    <string name="book26">Projects</string>
+   	
+   
+ 
+   <string name="menu">Menu</string>
+   <string name="lib">Library</string>
+   <string name="profile">Profile</string>
+   <string name="exit">Logout</string>
+   <string name="feed">Feedback</string>
+   
+   <string name="hi">Hi</string>
+   <string name="flname">Full Name</string>
+   <string name="age">Age</string>
+   <string name="save">Save</string>
+   <string name="view">View</string>
+   <string name="del">Delete</string>
+   
+   <string name="btxt2">Subjects for first semester</string>
+   <string name="bm6">C_Programming</string>
+   <string name="bm7">Computer Organization</string>
+   <string name="bm8">PPMOB</string>
+   <string name="bm9">Software Engineering</string>
+   <string name="bm10">Discrete Mathematics</string>
+   
+   <string name="btxt3">Subjects for first semester</string>
+   <string name="bm11">C_Programming</string>
+   <string name="bm12">Computer Organization</string>
+   <string name="bm13">PPMOB</string>
+   <string name="bm14">Software Engineering</string>
+   <string name="bm15">Discrete Mathematics</string>
+   
+   <string name="btxt4">Subjects for first semester</string>
+   <string name="bm16">C_Programming</string>
+   <string name="bm17">Computer Organization</string>
+   <string name="bm18">PPMOB</string>
+   <string name="bm19">Software Engineering</string>
+   <string name="bm20">Discrete Mathematics</string>
+   
+  
+    <string name="email">Email</string>
+    <string name="passwd">Password</string>
+    <string name="reg">Register</string>
+    <string name="log">login</string>
+    <string name="fpasswd">Forgot Password</string>
+    <string name="cpasswd">Change Password</string>
+    <string name="cpass">Confirm Password</string>
+    <string name="back">Back to Login</string>
+    <string name="caccount">Create Account</string>
+   	<string name="desc">m-learning</string>
+    <string name="cyp">Change Your Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="npasswd">New Password</string>
+    <string name="logout">Logout</string>
+    <string name="upanel">User Panel</string>
+    <string name="ryp">Reset Your Password</string>
+    <string name="enterid">Enter Your Email Id</string>
+    <string name="reset">Reset</string>
+    <string name="blog">Back to Login</string>
+    <string name="reg_me">Register To m-Learning</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="uname">Username</string>
+   <string name="success_msz">Congratulations. You have Successfully Registered</string>
+   <string name="reg_detail">Your Registration Details</string>
+   <string name="reg_at">Registered at</string>
+   
+   <string name="nodata">No Data Found</string>
+   
+   <string name="feedbacktype1">Praise</string>
+    <string name="feedbacktype2">Gripe</string>
+    <string name="feedbacktype3">Suggestion</string>
+    <string name="feedbacktype4">Bug</string>
+    
+    <string name="feedbacktitle">Send your feedback to us..</string>
+    <string name="feedbackname">Name</string>
+    <string name="feedbackemail">Email</string>
+    <string name="feedbacktype">Type</string>
+    <string name="feedbackbody">Message</string>
+    <string name="feedbackresponse">Would you like an email response</string>
+    <string name="feedbackbutton">Send Feedback</string>
+
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg6"
+    android:gravity="center_vertical"
+    android:scrollbars="vertical">
+    
+     <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="432dp"
+        android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="30sp"
+        android:textColor="#ffffff"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/gotolibrary"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_width="fill_parent"
+        android:textSize="30sp"
+        android:textColor="#ffffff"
+        android:layout_height="wrap_content"
+        android:text="@string/lib" />
+    
+    <Button
+        android:id="@+id/goodreads"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_width="fill_parent"
+        android:textSize="30sp"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:onClick="createDB"
+        android:text="@string/profile"/>
+    
+    <Button
+        android:id="@+id/btnlogout"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="#ffffff"
+        android:onClick="drop"
+        android:text="@string/exit"/>
+    
+     <Button
+        android:id="@+id/feedback"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:textSize="30sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="@string/feed" />
+</LinearLayout>
+</ScrollView>

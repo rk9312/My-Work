@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg1"
+    android:gravity="center_vertical"
+    android:scrollbars="vertical">
+    
+     <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="432dp"
+        android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/editTextUserName"
+        android:hint="@string/usrname"
+        android:textColor="#ffffff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/editTextPassword"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+         android:hint="@string/pass"
+        android:inputType="textPassword" 
+        android:layout_marginTop="20dp"/>
+
+    <EditText
+        android:id="@+id/editTextConfirmPassword"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:hint="@string/cpass"
+        android:inputType="textPassword"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:id="@+id/buttonCreateAccount"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="@string/caccount"
+        android:onClick="addData"
+        android:layout_marginTop="20dp" />
+    
+    <Button
+        android:id="@+id/buttonBacktoLogin"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="@string/back"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="40dp" />
+    
+</LinearLayout>
+</ScrollView>
